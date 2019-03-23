@@ -1,7 +1,7 @@
 ### US PATENT 
 ### Method for optimal path selection in traversal of packets through network address translators
 
-Publication number: 20050259637
+#### Publication number: 20050259637   
 Abstract: Reduction of administrative overhead in maintaining network information, rapid convergence on an optimal routing 
 path through the data network, and utilization of only required network resources are realized by a novel method for 
 establishing a call path between network users. The method is based upon deployment of a network information server that 
